@@ -1,0 +1,12 @@
+﻿  backup.cpp
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(331,22): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(361,55): warning C4018: “>”: 有符号/无符号不匹配
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(560,30): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(581,26): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(640,22): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(1014,25): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(1014,25): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“UINT64”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(1014,25): message : 请考虑在格式字符串中使用“%lld”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(1014,25): message : 请考虑在格式字符串中使用“%I64d”
+D:\word\study\backup_windows\backup_windows\backup_windows\backup.cpp(525,18): warning C4101: “packet”: 未引用的局部变量
+  backup_windows.vcxproj -> D:\word\study\backup_windows\backup_windows\Debug\backup_windows.exe
